@@ -55,14 +55,14 @@ Here are some ideas to get you started:
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=whit)
 </div>
 
-- ### Database
+- #### Database
 <div align="center">
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgressSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
-- ### Clouds
+- #### Clouds
 <div align="center">
 
   ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
